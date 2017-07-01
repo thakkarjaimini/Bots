@@ -1,0 +1,41 @@
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\obj\Debug\StockBot.csprojResolveAssemblyReference.cache
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Bot Application.dll.config
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Bot Application.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Bot Application.pdb
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Autofac.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Chronic.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Bot.Builder.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Bot.Connector.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Newtonsoft.Json.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.Net.Http.Formatting.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.Web.Http.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.Web.Http.WebHost.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Autofac.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Bot.Builder.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Bot.Connector.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\Newtonsoft.Json.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.Net.Http.Formatting.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.Web.Http.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\System.Web.Http.WebHost.xml
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\obj\Debug\Bot Application.dll
+c:\users\thakkarjaimini\documents\visual studio 2015\Projects\StockBot\StockBot\obj\Debug\Bot Application.pdb
